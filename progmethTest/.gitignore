@@ -1,0 +1,41 @@
+# Eclipse project settings
+.project
+.classpath
+.settings/
+
+# Compiled class files
+target/
+
+# Logs
+*.log
+
+# Maven build files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Eclipse-specific files
+*.swp
+*~.nib
+.localHistory/
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IntelliJ IDEA (in case you use it too)
+.idea/
+*.iml
+*.iws
+
+# Package-specific
+*.jar
+*.war
+*.ear
